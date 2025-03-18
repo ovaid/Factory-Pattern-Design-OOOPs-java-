@@ -1,0 +1,6 @@
+
+
+interface Teacher {
+    String Department();
+     
+ }
